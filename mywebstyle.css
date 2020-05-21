@@ -14,8 +14,8 @@ h2{
 #text{
     text-align: left;
     
-    /* font-style: oblique; */
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    
 }
 #grid{ 
     display: grid;
